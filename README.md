@@ -1,1 +1,1 @@
-A folder with all some learning projects about React
+A folder with some learning projects about React
