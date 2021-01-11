@@ -1,0 +1,22 @@
+/* common  */
+
+* {
+    box-sizing:border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: lightblue;
+}
+
+/* class style  */
+
+.person {
+    box-shadow: 0 2px 2px #ccc;
+    border: 1px solid #eee;
+    display: inline-block;
+    padding: 20px;
+    margin: 10px;
+    width: 200px;
+}
